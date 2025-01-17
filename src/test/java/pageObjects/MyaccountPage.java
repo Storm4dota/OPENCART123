@@ -15,6 +15,7 @@ public class MyaccountPage extends BasePage {
 	 
 	 @FindBy(xpath="//a[@class='list-group-item'][normalize-space()='Logout']") WebElement butn_logout; //added in step 6
 	 
+	 
 	 public boolean MyAccountHeader()
 	 {
 		 try

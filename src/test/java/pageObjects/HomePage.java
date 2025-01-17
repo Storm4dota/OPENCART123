@@ -20,6 +20,9 @@ public class HomePage extends BasePage {
 	@FindBy(xpath="//a[normalize-space()='Login']") WebElement linkLogin; //login link added in step5
 	
 	
+	
+	
+	
 	public void clickmyAccount()
 	{
 		lnkMyAccount.click();

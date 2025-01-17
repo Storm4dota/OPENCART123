@@ -2,6 +2,7 @@ package testBases;
 
 import java.io.File;
 
+
 import java.io.FileReader;
 import java.io.IOException;
 import java.net.URL;
@@ -61,6 +62,10 @@ public class BaseClass {
 			{
 				capabilities.setPlatform(Platform.MAC);
 			}
+			else if(os.equalsIgnoreCase("linux"))
+			{
+				capabilities.setPlatform(Platform.LINUX);
+			}
 			else
 			{
 				System.out.println("No matching os");
@@ -73,6 +78,7 @@ public class BaseClass {
 			{
 			case "chrome": capabilities.setBrowserName("chrome"); break;
 			case "edge": capabilities.setBrowserName("MicrosoftEdge"); break;
+			case "firefox" :capabilities.setBrowserName("firefox"); break;
 			default: System.out.println("No matching browser"); return;
 			}
 			

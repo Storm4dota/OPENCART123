@@ -15,6 +15,13 @@
           <include name="verify_login"/>
         </methods>
       </class> <!-- testCases.TC002_LOGIN -->
+      <class name="testCases.TC001_AccountRegistrationTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+          <include name="verify_account_Registration"/>
+        </methods>
+      </class> <!-- testCases.TC001_AccountRegistrationTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Master Suite] -->
