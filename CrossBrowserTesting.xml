@@ -23,7 +23,7 @@
       <class name="testCases.TC001_AccountRegistrationTest"/>
     </classes>
      </test> <!-- Test -->
-     
+     <!-- 
      <test thread-count="5" name="FireFoxTest">
      <parameter name="os" value="Windows"/>
       <parameter name="browser" value="firefox"/>
@@ -31,7 +31,7 @@
     <classes>
       <class name="testCases.TC001_AccountRegistrationTest"/>
     </classes>
-     </test> <!-- Test -->
+     </test>  Test --> 
      
      
 </suite> <!-- Suite -->

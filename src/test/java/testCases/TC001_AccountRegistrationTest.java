@@ -28,7 +28,7 @@ public class TC001_AccountRegistrationTest extends BaseClass{
     @Test(groups={"Regression","Master"})
     public void verify_account_Registration() throws InterruptedException
     {
-    	Thread.sleep(2000);
+    	//Thread.sleep(2000);
     	logger.info("**** Starting TC001_AccountRegistrationTest ***");
     	HomePage hp=new HomePage(driver);
     	hp.clickmyAccount();

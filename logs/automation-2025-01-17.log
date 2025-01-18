@@ -1,69 +1,55 @@
-12:13:16.348 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering random last name, email
-12:13:16.601 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering Random password
-12:13:17.618 [main] INFO  testCases.TC001_AccountRegistrationTest - Test case finished
-12:14:11.147 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java selenium\Projects\OPENCART123\grid_docker.xml"
-12:14:11.459 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Java selenium\Projects\OPENCART123\grid_docker.xml
+17:16:47.971 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Java selenium\Projects\OPENCART123\CrossBrowserTesting.xml
 
-12:15:31.651 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java selenium\Projects\OPENCART123\grid_docker.xml"
-12:15:31.934 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Java selenium\Projects\OPENCART123\grid_docker.xml
+17:16:57.199 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ***
+17:16:57.395 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ***
+17:16:57.722 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+17:16:57.847 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Entering random last name, email
+17:25:39.667 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java selenium\Projects\OPENCART123\CrossBrowserTesting.xml"
+17:25:39.952 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Java selenium\Projects\OPENCART123\CrossBrowserTesting.xml
 
-12:17:41.816 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java selenium\Projects\OPENCART123\master.xml"
-12:17:42.098 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Java selenium\Projects\OPENCART123\master.xml
+17:25:49.250 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ***
+17:25:49.458 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ***
+17:34:25.127 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java selenium\Projects\OPENCART123\CrossBrowserTesting.xml"
+17:34:25.403 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Java selenium\Projects\OPENCART123\CrossBrowserTesting.xml
 
-12:19:33.178 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java selenium\Projects\OPENCART123\master.xml"
-12:19:33.488 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Java selenium\Projects\OPENCART123\master.xml
+17:34:31.772 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ***
+17:34:32.263 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+17:34:32.380 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Entering random last name, email
+17:34:32.763 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Entering Random password
+17:34:32.794 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ***
+17:34:35.209 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+17:34:35.295 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Entering random last name, email
+17:39:48.288 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java selenium\Projects\OPENCART123\CrossBrowserTesting.xml"
+17:39:48.562 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Java selenium\Projects\OPENCART123\CrossBrowserTesting.xml
 
-12:19:40.079 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ***
-12:19:40.406 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
-12:19:40.488 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering random last name, email
-12:19:40.744 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering Random password
-12:19:41.563 [main] INFO  testCases.TC001_AccountRegistrationTest - Test case finished
-12:19:45.864 [main] INFO  testCases.TC002_LOGIN - ********* TC002_login Started*******
-12:19:46.890 [main] INFO  testCases.TC002_LOGIN - ***** TC002_login Finished *****
-15:27:50.426 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java selenium\Projects\OPENCART123\master.xml"
-15:27:50.774 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Java selenium\Projects\OPENCART123\master.xml
+17:39:50.886 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ***
+17:39:50.892 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ***
+17:39:50.895 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ***
+17:40:32.750 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java selenium\Projects\OPENCART123\CrossBrowserTesting.xml"
+17:40:33.038 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Java selenium\Projects\OPENCART123\CrossBrowserTesting.xml
 
-15:27:58.719 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ***
-20:17:35.770 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java selenium\Projects\OPENCART123\testng.xml"
-20:17:36.034 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Java selenium\Projects\OPENCART123\testng.xml
+17:40:35.338 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ***
+17:40:35.338 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ***
+17:40:35.338 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ***
+17:42:06.495 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java selenium\Projects\OPENCART123\CrossBrowserTesting.xml"
+17:42:06.797 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Java selenium\Projects\OPENCART123\CrossBrowserTesting.xml
 
-20:19:44.936 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java selenium\Projects\OPENCART123\testng.xml"
-20:19:45.193 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Java selenium\Projects\OPENCART123\testng.xml
+17:42:12.616 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ***
+17:42:15.429 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ***
+17:42:15.727 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+17:42:15.894 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Entering random last name, email
+17:42:17.203 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+17:42:17.295 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Entering random last name, email
+21:57:14.493 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java selenium\Projects\OPENCART123\CrossBrowserTesting.xml"
+21:57:14.866 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Java selenium\Projects\OPENCART123\CrossBrowserTesting.xml
 
-20:20:37.084 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java selenium\Projects\OPENCART123\testng.xml"
-20:20:37.331 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Java selenium\Projects\OPENCART123\testng.xml
-
-20:20:44.035 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ***
-20:20:44.421 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
-20:20:44.520 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering random last name, email
-20:20:44.767 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering Random password
-20:20:45.693 [main] INFO  testCases.TC001_AccountRegistrationTest - Test case finished
-14:56:50.440 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java selenium\Projects\OPENCART123\testng.xml"
-14:56:50.795 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Java selenium\Projects\OPENCART123\testng.xml
-
-14:57:28.469 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java selenium\Projects\OPENCART123\testng.xml"
-14:57:28.744 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Java selenium\Projects\OPENCART123\testng.xml
-
-11:07:17.698 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java selenium\Projects\OPENCART123\master.xml"
-11:07:27.982 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ***
-11:07:28.396 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
-11:07:28.492 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering random last name, email
-11:07:28.729 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering Random password
-11:07:29.535 [main] INFO  testCases.TC001_AccountRegistrationTest - Test case finished
-11:07:32.611 [main] INFO  testCases.TC002_LOGIN - ********* TC002_login Started*******
-11:07:33.840 [main] INFO  testCases.TC002_LOGIN - ***** TC002_login Finished *****
-11:08:36.131 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java selenium\Projects\OPENCART123\testng.xml"
-11:08:36.974 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Java selenium\Projects\OPENCART123\testng.xml
-
-17:16:47.640 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java selenium\Projects\OPENCART123\CrossBrowserTesting.xml"
+21:57:22.877 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ***
+21:57:23.099 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ***
+21:57:23.618 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
