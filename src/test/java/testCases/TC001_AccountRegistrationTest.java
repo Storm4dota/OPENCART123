@@ -1,18 +1,18 @@
 package testCases;
 
-import java.time.Duration;
 
 
 
 
 
 
-import org.apache.commons.lang3.RandomStringUtils;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
+
+
+
+
+
 import org.testng.Assert;
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.BeforeClass;
+
 import org.testng.annotations.Test;
 
 import pageObjects.AccountRegistrationPage;
@@ -25,7 +25,7 @@ public class TC001_AccountRegistrationTest extends BaseClass{
 	
 	
     
-    @Test(groups={"Regression","Master"})
+    @Test//(groups={"Regression","Master"})
     public void verify_account_Registration() throws InterruptedException
     {
     	//Thread.sleep(2000);

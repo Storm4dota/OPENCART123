@@ -4,19 +4,6 @@
   <listeners>
     <listener class-name="utilities.ExtentReportManager"/>
   </listeners>
-  <test thread-count="5" parallel="tests" name="ChromeTest(failed)">
-    <parameter name="os" value="Windows"/>
-    <parameter name="browser" value="chrome"/>
-    <classes>
-      <class name="testCases.TC001_AccountRegistrationTest">
-        <methods>
-          <include name="teardown"/>
-          <include name="setup"/>
-          <include name="verify_account_Registration"/>
-        </methods>
-      </class> <!-- testCases.TC001_AccountRegistrationTest -->
-    </classes>
-  </test> <!-- ChromeTest(failed) -->
   <test thread-count="5" parallel="tests" name="EdgeTest(failed)">
     <parameter name="os" value="Windows"/>
     <parameter name="browser" value="edge"/>
@@ -30,4 +17,17 @@
       </class> <!-- testCases.TC001_AccountRegistrationTest -->
     </classes>
   </test> <!-- EdgeTest(failed) -->
+  <test thread-count="5" parallel="tests" name="ChromeTest(failed)">
+    <parameter name="os" value="Windows"/>
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="testCases.TC001_AccountRegistrationTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+          <include name="verify_account_Registration"/>
+        </methods>
+      </class> <!-- testCases.TC001_AccountRegistrationTest -->
+    </classes>
+  </test> <!-- ChromeTest(failed) -->
 </suite> <!-- Failed suite [Suite] -->

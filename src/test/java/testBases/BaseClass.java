@@ -35,7 +35,8 @@ public class BaseClass {
 	public Logger logger;  //Log4j
 	public Properties p;
 	
-	@BeforeClass(groups= {"Sanity","Master","Regression"})
+	@SuppressWarnings("deprecation")
+	@BeforeClass//(groups= {"Sanity","Master","Regression"})
 	@Parameters({"os","browser"})
 	public void setup(String os, String br) throws IOException 
 	{
@@ -115,7 +116,7 @@ public class BaseClass {
 	}
 	
 	
-    @AfterClass(groups={"Master","Sanity","Regression"})
+    @AfterClass//(groups={"Master","Sanity","Regression"})
 	public void teardown()
 	{
 		driver.close();
